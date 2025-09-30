@@ -3,9 +3,6 @@
 Compute total electrons for DNA sequences with toggles for backbone and phosphate charges.
 Now includes **FASTA parsing** and **Biopython** integration.
 
-> Replace `USERNAME` below with your GitHub username after you create the repo.
-
-![CI](https://github.com/USERNAME/dna-electrons/actions/workflows/ci.yml/badge.svg)
 
 ## Install (from source)
 
