@@ -7,7 +7,7 @@ Now includes **FASTA parsing** and **Biopython** integration.
 ## Install (from source)
 
 ```bash
-git clone https://github.com/USERNAME/dna-electrons.git
+git clone https://github.com/yashmgupta/dna-electrons.git
 cd dna-electrons
 python -m venv .venv && source .venv/bin/activate  # on Windows: .venv\Scripts\activate
 pip install -U pip build
