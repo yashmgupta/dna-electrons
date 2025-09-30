@@ -39,4 +39,4 @@ for rec_id, r in compute_from_fasta("sequences.fasta", double_stranded=True):
 
 ## License
 
-MIT © {year} {author}
+MIT © 2025 {Yash Munnalal Gupta}
