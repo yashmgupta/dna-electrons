@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: dna-electrons
+authors:
+  - family-names: Gupta
+    given-names: Yash Munnalal Gupta
+version: 0.2.1
+date-released: 2025-09-30
+license: MIT
