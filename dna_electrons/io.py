@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Your Name
+# Copyright (c) 2025 Yash Munnalal Gupta
 # SPDX-License-Identifier: MIT
 
 from typing import List, Tuple
