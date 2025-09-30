@@ -7,7 +7,7 @@ name = "dna-electrons"
 version = "0.2.1"
 description = "Compute total electrons for DNA sequences with FASTA parsing and Biopython integration."
 readme = "README.md"
-authors = [{name = "Your Name"}]
+authors = [{name = "Yash Munnalal Gupta"}]
 license = {file = "LICENSE"}
 requires-python = ">=3.8"
 dependencies = ["biopython>=1.80"]
@@ -20,12 +20,12 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
-    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "Topic :: Scientific/Engineering :: Bioinformatics",
 ]
 
 [project.urls]
-Homepage = "https://github.com/USERNAME/dna-electrons"
-Issues = "https://github.com/USERNAME/dna-electrons/issues"
+Homepage = "https://github.com/yashmgupta/dna-electrons"
+Issues = "https://github.com/yashmgupta/dna-electrons/issues"
 
 [project.scripts]
 dna-electrons = "dna_electrons.cli:main"
