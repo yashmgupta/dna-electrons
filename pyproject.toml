@@ -26,6 +26,7 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/yashmgupta/dna-electrons"
 Issues = "https://github.com/yashmgupta/dna-electrons/issues"
+Repository = "https://github.com/yashmgupta/dna-electrons"
 
 [project.scripts]
 dna-electrons = "dna_electrons.cli:main"
