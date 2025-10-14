@@ -39,4 +39,23 @@ for rec_id, r in compute_from_fasta("sequences.fasta", double_stranded=True):
 
 ## License
 
-MIT © 2025 {Yash Munnalal Gupta}
+MIT © 2025 Dr. Yash Munnalal Gupta
+
+## How to Cite
+
+If you use `dna-electrons`, please cite:
+
+Gupta, Yash Munnalal. dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences. v2.0.4. DOI: [10.5281/zenodo.17347432](https://doi.org/10.5281/zenodo.17347432)
+
+BibTeX:
+```bibtex
+@misc{Gupta2025,
+  title={dna-electrons: A Python package for calculating total electron counts in DNA sequences},
+  author={Gupta, Yash Munnalal},
+  year={2025},
+  doi={10.5281/zenodo.17347432},
+  url={https://github.com/yashmgupta/dna-electrons}
+}
+```
+Full paper: [paper/paper.pdf](paper/paper.pdf)  
+Zenodo record: [https://zenodo.org/record/17347432](https://zenodo.org/record/17347432)
