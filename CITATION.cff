@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it as below.
-title: dna-electrons
+title: dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences
 authors:
   - family-names: Gupta
     given-names: Yash Munnalal Gupta
