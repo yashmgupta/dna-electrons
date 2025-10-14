@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: If you use this software, please cite it as below.
+message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Gupta"
   given-names: "Yash Munnalal"
@@ -9,4 +9,3 @@ version: 2.0.4
 doi: 
 date-released: 2025-09-30
 url: "https://github.com/yashmgupta/dna-electrons"
-license: MIT
