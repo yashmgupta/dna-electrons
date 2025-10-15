@@ -1,11 +1,28 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:
-  - family-names: "Gupta"
-    given-names: "Yash Munnalal"
-    orcid: "https://orcid.org/0000-0003-3306-832X"
 title: "dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences"
-version: "2.0.4"
-date-released: "2025-09-30"
+version: 1.0.0
+date-released: 2025-09-30
 url: "https://github.com/yashmgupta/dna-electrons"
+repository-code: "https://github.com/yashmgupta/dna-electrons"
+type: software
+authors:
+  - family-names: Gupta
+    given-names: Yash Munnalal
+    orcid: "https://orcid.org/0000-0003-3306-832X"
+    affiliation: "Department of Biology, Naresuan University"
+keywords:
+  - DNA
+  - Python
+  - electron density
+  - bioinformatics
+  - computational biology
+  - molecular modeling
+  - quantum chemistry
+  - FASTA
+license: MIT
 doi: 10.5281/zenodo.17347432
+abstract: |
+  DNA electronic properties play a crucial role in understanding biological processes at the quantum level.
+  The dna-electrons Python package provides accessible computational tools for calculating electron densities in nucleotide sequences,
+  enabling researchers to analyze DNA structure and charge transfer with ease.
