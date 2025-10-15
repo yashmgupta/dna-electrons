@@ -1,0 +1,43 @@
+{
+  "title": "dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences",
+  "description": "DNA electronic properties play a crucial role in understanding biological processes at the quantum level. The dna-electrons Python package provides accessible computational tools for calculating electron densities in nucleotide sequences, enabling researchers to analyze DNA structure and charge transfer with ease.",
+  "creators": [
+    {
+      "name": "Gupta, Yash Munnalal",
+      "affiliation": "Department of Biology, Naresuan University",
+      "orcid": "0000-0003-3306-832X"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "publication_date": "2025-09-30",
+  "keywords": [
+    "DNA",
+    "Python",
+    "electron density",
+    "bioinformatics",
+    "computational biology",
+    "molecular modeling",
+    "quantum chemistry",
+    "FASTA"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yashmgupta/dna-electrons",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/dna-electrons/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ]
+}
