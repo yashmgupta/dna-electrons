@@ -1,0 +1,61 @@
+# dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences
+
+## Citation Information
+
+**Title:** dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences
+
+**Author:** Yash Munnalal Gupta  
+**ORCID:** 0000-0003-3306-832X  
+**Affiliation:** Department of Biology, Naresuan University  
+**Date:** September 30, 2025  
+**DOI:** 10.5281/zenodo.17347432  
+
+## Abstract
+
+DNA electronic properties play a crucial role in understanding biological processes at the quantum level. The dna-electrons Python package provides accessible computational tools for calculating electron densities in nucleotide sequences, enabling researchers to analyze DNA structure and charge transfer with ease.
+
+## How to Cite
+
+### BibTeX Format
+
+```bibtex
+@software{Gupta2025,
+  author = {Gupta, Yash Munnalal},
+  title = {dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences},
+  year = {2025},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.17347432},
+  url = {https://pypi.org/project/dna-electrons/}
+}
+```
+
+### APA Format
+
+Gupta, Y. M. (2025). *dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences*. Zenodo. https://doi.org/10.5281/zenodo.17347432
+
+### MLA Format
+
+Gupta, Yash Munnalal. "dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences." Zenodo, 2025, doi:10.5281/zenodo.17347432.
+
+### Chicago Format
+
+Gupta, Yash Munnalal. 2025. "dna-electrons: A Python Package for Calculating Total Electron Counts in DNA Sequences." Zenodo. https://doi.org/10.5281/zenodo.17347432.
+
+## Keywords
+
+DNA, Python, electron density, bioinformatics, computational biology, molecular modeling, quantum chemistry, FASTA
+
+## Links
+
+- **PyPI:** https://pypi.org/project/dna-electrons/
+- **GitHub:** https://github.com/yashmgupta/dna-electrons
+- **DOI:** https://doi.org/10.5281/zenodo.17347432
+- **ORCID:** https://orcid.org/0000-0003-3306-832X
+
+## License
+
+MIT License
+
+## References
+
+See the full paper (paper.pdf) for complete references and methodology.
