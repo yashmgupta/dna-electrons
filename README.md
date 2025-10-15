@@ -57,5 +57,5 @@ BibTeX:
   url={https://github.com/yashmgupta/dna-electrons}
 }
 ```
-Full paper: [paper/paper.pdf](/paper.pdf)  
+Full paper: [paper.pdf](/paper.pdf)  
 Zenodo record: [https://zenodo.org/record/17347432](https://zenodo.org/record/17347432)
